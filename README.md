@@ -43,7 +43,7 @@ Este repositório contém a solução do desafio técnico de QA Automation para 
 ### Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/juazneto/qa-automation-accenture.git
+   git clone https://github.com/JuazNeto/qa-desafio-accenture.git
    cd qa-automation-accenture
 
 
