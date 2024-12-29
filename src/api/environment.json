@@ -1,0 +1,27 @@
+{
+	"id": "46d7eb9e-f03d-458c-8c0a-90b346ce6a09",
+	"name": "Desafio Accenture: Variaveis de Ambiente",
+	"values": [
+		{
+			"key": "token",
+			"value": "0",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Authorization",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userID",
+			"value": "0",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-12-28T16:32:18.438Z",
+	"_postman_exported_using": "Postman/11.23.3"
+}
