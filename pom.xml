@@ -54,6 +54,16 @@
             <version>7.10.0</version>
             <scope>test</scope>
         </dependency>
+<<<<<<< HEAD
+=======
+        <!-- Cucumber Spring -->
+        <!-- <dependency> -->
+        <!--     <groupId>io.cucumber</groupId> -->
+        <!--     <artifactId>cucumber-spring</artifactId> -->
+        <!--     <version>7.10.0</version> -->
+        <!--     <scope>test</scope> -->
+        <!-- </dependency> -->
+>>>>>>> 1a52195f5f4ce234a73f9e2f286dcacb7e1346c4
     </dependencies>
     <build>
         <plugins>
