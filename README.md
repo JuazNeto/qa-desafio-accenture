@@ -30,12 +30,15 @@ Este repositório contém a solução do desafio técnico de QA Automation para 
 - `/src/drivers`: Contém o `chromedriver.exe`.
 - `/src/test/java/com/accenture/br/`: Código Java organizado em pacotes.
 - `/src/test/resources`: Arquivo `formdata.txt` para upload no formulário.
+- `/src/test/resources/feature`: Arquivo `WebTables.feature` contendo procedimentos para o Cucumber.
 
 ## Requisitos
 - JDK 11 ou superior
 - Maven (ou Gradle)
+- Selenium WebDriver
 - Google Chrome
 - ChromeDriver compatível com a versão do Chrome
+- Cucumber
 
 ## Como Executar
 1. Clone o repositório:
